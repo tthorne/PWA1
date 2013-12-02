@@ -1,7 +1,7 @@
 /*
  * Name:  Tara Thorne
  * Date: Saturday, November 30, 2013
- * Assignment:  Goal1: Assignment: The Duel - Part I
+ * Assignment:  Goal2: Assignment: The Duel - Part II
  */
 
 // self-executing function
